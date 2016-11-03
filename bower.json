@@ -1,0 +1,22 @@
+{
+  "name": "Nouveau formulaire",
+  "description": "test",
+  "main": "",
+  "authors": [
+    "Marc"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "fontawesome#^4.7.0",
+    "datepicker": "*",
+    "moment": "^2.15.2"
+  }
+}
